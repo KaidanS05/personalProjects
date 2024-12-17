@@ -1,2 +1,2 @@
-This repository is for all personal small projects I do for fun. 
-beginnerPrograms is a program that lists a few basic programs that you can do if you can't choose what to create
+beginnerPrograms lists a few basic programs that you can do if you can't choose what to create
+Allows the user to view more information about each project, and submit completed projects to a .txt file
